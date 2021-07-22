@@ -1,16 +1,20 @@
-### Hi there 👋
-
 <!--
 **chuawt/chuawt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+# Hello, folks! <img src="images/wave.gif" width="30px">
+Thanks for finding my Github README.
+
+
+## My Portfolio Website
+You can find me on my [website](https://chuawt.github.io).
+
+## Technologies and Tools
+<!-- Code -->
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=<Python>&logoColor=white&color=2bbc8a)
+
+<!-- Editor -->
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=<visualstudiocode>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=<pycharm>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Jupyter-informational?style=flat&logo=<upyter>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Colab-informational?style=flat&logo=<googlecolab>&logoColor=white&color=2bbc8a)
