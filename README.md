@@ -13,6 +13,9 @@ You can find me on my [website](https://chuawt.github.io).
 ## Technologies and Tools
 <!-- Code -->
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-ExcelVBA-informational?style=flat&logo=microsoftexcel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-GoogleAppsScript-informational?style=flat&logo=googlesheets&logoColor=white&color=2bbc8a)
 
 <!-- Editor -->
 ![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
